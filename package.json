@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "canvas": "^2.9.0",
+    "discord-image-generation": "^1.4.9",
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.1.8",
+    "simply-djs": "^2.5.2"
+  }
+}
